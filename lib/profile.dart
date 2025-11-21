@@ -49,7 +49,7 @@ class Profile extends StatelessWidget {
                  Text("567884")]),
                  
               ),
-            ),SizedBox(height: 55,width:500,child:Card(color: Row(children: [Icon(Icons.))],),))
+            ),
 
             SizedBox(height: 5),
             Card(color: Colors.white),
